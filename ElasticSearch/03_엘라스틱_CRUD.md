@@ -86,4 +86,4 @@ root@5029351fa373:/ElasticSearch# curl -H "Content-Type:application/json" -XPOST
 ```bash
 root@5029351fa373:/ElasticSearch# curl -H "Content-Type:application/json" -XPOST http://localhost:9200/classes/class/1/_update -d '{"doc":{"unit":1}}'
 ```
-기존 생성된 Documnet에 `unit`이라는 필드를 추가합니다.
+기존 생성된 Documnet에 `unit`이라는 필드를 추가합니다..
