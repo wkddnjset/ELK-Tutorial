@@ -15,7 +15,7 @@ root@5029351fa373:/ElasticSearch# curl -XGET http://localhost:9200/classes
 Elastic Search가 설치된 폴더로 이동하여 `classes`란 인덱스를 호출합니다.
 > 아직 어떤 데이터도 입력되지 않은 상태여서 `404 에러`가 뜰겁니다.
 
-* `curl -XGET http://localhost:9200/classes?pretty` 이렇게 뒤에 `?prettt`를 추가하면 `json`형식으로 보여집니다.
+* `curl -XGET http://localhost:9200/classes?pretty` 이렇게 뒤에 `?prettt`를 추가하면 `json`형식에 맞게 들여쓰기가 된 상태로 보여집니다.
 
 ## Index 생성 [PUT]
 
