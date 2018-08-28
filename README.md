@@ -12,7 +12,7 @@ ElasticSearch, Logstash, Kibana에 대한 가이드북 입니다.
 	- [Elastic Search CRUD](https://github.com/wkddnjset/ELK-Tutorial/blob/master/ElasticSearch/03_엘라스틱_CRUD.md)
 	- [Elastic Search 유용한 옵션](https://github.com/wkddnjset/ELK-Tutorial/blob/master/ElasticSearch/03_엘라스틱_옵션.md)
 	- [Elastic Search 검색 기능](https://github.com/wkddnjset/ELK-Tutorial/blob/master/ElasticSearch/03_엘라스틱_검색.md)
-	- [Elastic Search 검색 기능](https://github.com/wkddnjset/ELK-Tutorial/blob/master/ElasticSearch/03_엘라스틱_검색.md)
+	- [Elastic Search Aggregation 기능](https://github.com/wkddnjset/ELK-Tutorial/blob/master/ElasticSearch/03_엘라스틱_Aggr.md)
 
 - Kibana
 - Mapping

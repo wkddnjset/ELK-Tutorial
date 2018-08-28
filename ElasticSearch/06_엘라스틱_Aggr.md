@@ -1,4 +1,4 @@
-# Elastic Search Aggregation
+# Elastic Search Aggregation 기능
 
 Aggregation 종류는 다음과 같습니다.
 - Metrics Aggregation
