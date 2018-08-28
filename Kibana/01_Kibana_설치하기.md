@@ -19,4 +19,4 @@ root@5029351fa373:/# sudo update-rc.d kibana defaults 95 10
 
 우선 도커에 접속하기 위해 방화벽 설정을 해준다.
 `sudo ufw status`
-`
+`sudo ufw status` : 현재 설정 보기
