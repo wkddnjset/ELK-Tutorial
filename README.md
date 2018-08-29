@@ -16,6 +16,7 @@ ElasticSearch, Logstash, Kibana에 대한 가이드북 입니다.
 	- [Elastic Search Aggregation 기능](https://github.com/wkddnjset/ELK-Tutorial/blob/master/ElasticSearch/06_엘라스틱_Aggr.md)
 
 - Kibana
+	- [Kibana 사용하기](https://github.com/wkddnjset/ELK-Tutorial/blob/master/Kibana/01_Kibana_사용하기.md)
 - Mapping
 - Bulk
 - Aggregation
